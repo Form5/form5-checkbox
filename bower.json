@@ -2,12 +2,17 @@
   "name": "form5-checkbox",
   "version": "1.0.0",
   "homepage": "http://form5.github.io/form5-checkbox",
+  "description": "jQuery plugin to skin checkboxes",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Form5/form5-checkbox.git"
+  },
   "authors": [
     "Benedikt D Valdez <benedikt@form5.is>",
     "Arni Reynir Oskarsson <arni@form5.is>"
   ],
-  "description": "jQuery plugin to skin checkboxes",
   "keywords": [
+    "form5",
     "jquery",
     "checkbox",
     "form"
